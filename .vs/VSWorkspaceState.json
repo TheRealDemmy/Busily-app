@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\busily",
+    "\\busily\\src",
+    "\\busily\\src\\actions",
+    "\\busily\\src\\screens",
+    "\\busily\\src\\screens\\Card",
+    "\\busily\\src\\screens\\Edit",
+    "\\busily\\src\\screens\\Library",
+    "\\busily\\src\\screens\\Scan"
+  ],
+  "SelectedNode": "\\busily\\package.json",
+  "PreviewInSolutionExplorer": false
+}
